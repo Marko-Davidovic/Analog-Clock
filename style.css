@@ -71,4 +71,5 @@ body {
   width: 4px;
   height: var(--h);
   border-radius: 8px;
+  border-radius: 50% 50% 0 0 ;
 }
